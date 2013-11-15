@@ -1,0 +1,8 @@
+Git hours
+=========
+
+Estimates time spent on a project from commit timestamps
+
+If two commits are less than INERTIA time apart, the time
+between them is considered spent, otherwise SINGLE_COMMIT
+time is taken.
